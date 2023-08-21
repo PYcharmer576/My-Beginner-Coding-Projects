@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"zenMode.hideActivityBar": false,
+		"zenMode.centerLayout": false,
+		"zenMode.fullScreen": false,
+		"zenMode.hideLineNumbers": false,
+		"zenMode.hideStatusBar": false,
+		"zenMode.hideTabs": false,
+		"zenMode.restore": false,
+		"zenMode.silentNotifications": false,
+		"editor.inlineSuggest.showToolbar": "always"
+	}
+}
